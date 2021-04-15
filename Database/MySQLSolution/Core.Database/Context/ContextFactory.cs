@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using MySql.Data.MySqlClient;
 using MySqlConnector;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,7 @@ namespace Core.Database
         public Context CreateDbContext(string[] args)
         {
             const string connectionString = "server=127.0.0.1;uid=root;pwd=123456;database=CORE";
-            return new Context(new DbContextOptionsBuilder<Context>().UseMySQL(connectionString).Options);
+            return new Context(new DbContextOptionsBuilder<Context>().UseMySql(connectionString).Options);
         }
     }
 }

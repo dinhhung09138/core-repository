@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h76D9FTOFHnrXbPvNEoi1fh8wjg6KnYB0E2W54sD8x3ziWMW66OAwjjpvlpsUSUaWN9Vva548x90ZVVqXYRpnQ==",
+  "dgSpecHash": "cdJ63QWwsx3vChnPZg5Vlm24o8hJ7qyZiaxGLOhfVK3fh6U71LBGAz54r3OVnCRW4lfO7ANILRxnGDgFiOCKrw==",
   "success": true,
-  "projectFilePath": "E:\\Core\\Core.Domain\\Core.Domain.csproj",
+  "projectFilePath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vuchungdung\\.nuget\\packages\\dotnetcore.domain\\14.3.0\\dotnetcore.domain.14.3.0.nupkg.sha512"
   ],

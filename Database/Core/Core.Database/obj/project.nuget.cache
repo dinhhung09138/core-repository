@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MNKRK6dgGycWq1aRGWWoJUOKKi73tFDxDoRM3G+W4d1QhGcF/5CDPrkIJEoMwoa+OgZc90WTZ5Ecd+A82q7Vtw==",
+  "dgSpecHash": "0CNY3PDxvMVn5kYsXUnfXQtC+wHpW5vFM9Sman/B/BkYUfS0v4X0/ALuIa/hAcWOSJFFDiaqZaBvXHwKR1/+cw==",
   "success": true,
-  "projectFilePath": "E:\\Core\\Core.Database\\Core.Database.csproj",
+  "projectFilePath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\Core.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vuchungdung\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\vuchungdung\\.nuget\\packages\\dotnetcore.domain\\14.3.0\\dotnetcore.domain.14.3.0.nupkg.sha512",

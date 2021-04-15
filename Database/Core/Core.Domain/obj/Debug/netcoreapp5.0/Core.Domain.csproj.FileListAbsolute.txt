@@ -9,3 +9,15 @@ E:\Core\Core.Domain\bin\Debug\netcoreapp5.0\Core.Domain.pdb
 E:\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.dll
 E:\Core\Core.Domain\obj\Debug\netcoreapp5.0\ref\Core.Domain.dll
 E:\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.pdb
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\bin\Debug\netcoreapp5.0\Core.Domain.deps.json
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\bin\Debug\netcoreapp5.0\Core.Domain.dll
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\bin\Debug\netcoreapp5.0\ref\Core.Domain.dll
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\bin\Debug\netcoreapp5.0\Core.Domain.pdb
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.csprojAssemblyReference.cache
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.AssemblyInfo.cs
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.dll
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\ref\Core.Domain.dll
+C:\Users\vuchungdung\Documents\core-repository\Database\Core\Core.Domain\obj\Debug\netcoreapp5.0\Core.Domain.pdb

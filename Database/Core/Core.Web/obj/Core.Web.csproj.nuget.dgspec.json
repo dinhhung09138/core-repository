@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Core\\Core.Web\\Core.Web.csproj": {}
+    "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Web\\Core.Web.csproj": {}
   },
   "projects": {
-    "E:\\Core\\Core.Database\\Core.Database.csproj": {
+    "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\Core.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Core\\Core.Database\\Core.Database.csproj",
+        "projectUniqueName": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\Core.Database.csproj",
         "projectName": "Core.Database",
-        "projectPath": "E:\\Core\\Core.Database\\Core.Database.csproj",
+        "projectPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\Core.Database.csproj",
         "packagesPath": "C:\\Users\\vuchungdung\\.nuget\\packages\\",
-        "outputPath": "E:\\Core\\Core.Database\\obj\\",
+        "outputPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuchungdung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "netcoreapp5.0",
             "projectReferences": {
-              "E:\\Core\\Core.Domain\\Core.Domain.csproj": {
-                "projectPath": "E:\\Core\\Core.Domain\\Core.Domain.csproj"
+              "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "E:\\Core\\Core.Domain\\Core.Domain.csproj": {
+    "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Core\\Core.Domain\\Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj",
         "projectName": "Core.Domain",
-        "projectPath": "E:\\Core\\Core.Domain\\Core.Domain.csproj",
+        "projectPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj",
         "packagesPath": "C:\\Users\\vuchungdung\\.nuget\\packages\\",
-        "outputPath": "E:\\Core\\Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuchungdung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "E:\\Core\\Core.Web\\Core.Web.csproj": {
+    "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Web\\Core.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Core\\Core.Web\\Core.Web.csproj",
+        "projectUniqueName": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Web\\Core.Web.csproj",
         "projectName": "Core.Web",
-        "projectPath": "E:\\Core\\Core.Web\\Core.Web.csproj",
+        "projectPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Web\\Core.Web.csproj",
         "packagesPath": "C:\\Users\\vuchungdung\\.nuget\\packages\\",
-        "outputPath": "E:\\Core\\Core.Web\\obj\\",
+        "outputPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vuchungdung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,11 +166,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Core\\Core.Database\\Core.Database.csproj": {
-                "projectPath": "E:\\Core\\Core.Database\\Core.Database.csproj"
+              "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\Core.Database.csproj": {
+                "projectPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Database\\Core.Database.csproj"
               },
-              "E:\\Core\\Core.Domain\\Core.Domain.csproj": {
-                "projectPath": "E:\\Core\\Core.Domain\\Core.Domain.csproj"
+              "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\vuchungdung\\Documents\\core-repository\\Database\\Core\\Core.Domain\\Core.Domain.csproj"
               }
             }
           }

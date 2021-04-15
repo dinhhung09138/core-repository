@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Core.Domain/1.0.0": {
+        "dependencies": {
+          "DotNetCore.Domain": "14.3.0"
+        },
+        "runtime": {
+          "Core.Domain.dll": {}
+        }
+      },
+      "DotNetCore.Domain/14.3.0": {
+        "runtime": {
+          "lib/net5.0/DotNetCore.Domain.dll": {
+            "assemblyVersion": "14.3.0.0",
+            "fileVersion": "14.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetCore.Domain/14.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VJulW0dA4E9JrREIsuq2lGiMIA1AS+pGcG6BwKLiraGoYV2GcZsnQWMyA1B2tD1aO8gfdQO4kXyXO+G+op+hzA==",
+      "path": "dotnetcore.domain/14.3.0",
+      "hashPath": "dotnetcore.domain.14.3.0.nupkg.sha512"
+    }
+  }
+}

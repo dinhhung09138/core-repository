@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySQL", "MySQL\MySQL.csproj", "{C2465426-F3DD-4FA1-8F0F-55212F3FFFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Domain", "Core.Domain\Core.Domain.csproj", "{744BBB86-2298-4182-93FE-FF7D502B855E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Database", "Core.Database\Core.Database.csproj", "{FCD32DDF-4C82-49DA-ABDD-F7E2935AA08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2465426-F3DD-4FA1-8F0F-55212F3FFFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2465426-F3DD-4FA1-8F0F-55212F3FFFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2465426-F3DD-4FA1-8F0F-55212F3FFFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2465426-F3DD-4FA1-8F0F-55212F3FFFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744BBB86-2298-4182-93FE-FF7D502B855E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744BBB86-2298-4182-93FE-FF7D502B855E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744BBB86-2298-4182-93FE-FF7D502B855E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744BBB86-2298-4182-93FE-FF7D502B855E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD32DDF-4C82-49DA-ABDD-F7E2935AA08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD32DDF-4C82-49DA-ABDD-F7E2935AA08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD32DDF-4C82-49DA-ABDD-F7E2935AA08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD32DDF-4C82-49DA-ABDD-F7E2935AA08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8C0C36-2EFF-4E34-9627-B77EFAAA426C}
+	EndGlobalSection
+EndGlobal

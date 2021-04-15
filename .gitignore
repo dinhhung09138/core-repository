@@ -4,3 +4,9 @@ Database/PostgreSql/Core.Domain/obj/
 Database/PostgreSql/Core.Domain/bin/
 Database/PostgreSql/Core.Database/obj/
 Database/PostgreSql/Core.Database/bin/
+Database/MySQLSolution/Core.Database/obj/
+Database/MySQLSolution/Core.Domain/bin/
+Database/MySQLSolution/Core.Domain/obj/
+Database/MySQLSolution/MySQL/bin/
+Database/MySQLSolution/MySQL/obj/
+Database/MySQLSolution/Core.Database/bin/
